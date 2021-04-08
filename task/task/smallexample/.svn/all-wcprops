@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/yiling/!svn/ver/1908/am121-2011/trunk/Dev/assigns/exopt1/scaffold/radiotherapy/smallexample
+END
+critical_raw.txt
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/yiling/!svn/ver/1908/am121-2011/trunk/Dev/assigns/exopt1/scaffold/radiotherapy/smallexample/critical_raw.txt
+END
+beam_raw.txt
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/yiling/!svn/ver/1908/am121-2011/trunk/Dev/assigns/exopt1/scaffold/radiotherapy/smallexample/beam_raw.txt
+END
+specs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/yiling/!svn/ver/1908/am121-2011/trunk/Dev/assigns/exopt1/scaffold/radiotherapy/smallexample/specs.txt
+END
+tumor_raw.txt
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/yiling/!svn/ver/1908/am121-2011/trunk/Dev/assigns/exopt1/scaffold/radiotherapy/smallexample/tumor_raw.txt
+END
